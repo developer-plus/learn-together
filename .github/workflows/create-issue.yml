@@ -1,6 +1,10 @@
+name: Create issue
+
 on:
+  workflow_dispatch:
+
   schedule:
-    - cron:  '42 10 * * *'
+    - cron:  '0 4 * * *'
 
 jobs:
   create-issue:
