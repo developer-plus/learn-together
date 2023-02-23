@@ -4,7 +4,7 @@
 
 ## 打卡方式
 
-打卡可以通过评论当天的 issue 参与，内容不限。例如：
+打卡可以通过评论当天的 [issue](https://github.com/developer-plus/learn-together/issues) 参与，内容不限。例如：
 
 - [x] 完成 Lingvist 的 100 个词卡；
 - [x] 学完崔大测试课第 1 节；
